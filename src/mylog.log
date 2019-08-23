@@ -1,0 +1,4 @@
+com.viv.Main.initializeLogger(Main.java:40) 2019-08-23 12:10:37,858 0 [main]  INFO (Main.java:40) - Logging initialized.
+com.viv.Main.main(Main.java:25) 2019-08-23 12:10:37,860 2 [main]  WARN (Main.java:25) - Sample debug message
+com.viv.Main.initializeLogger(Main.java:40) 	 2019-08-23 12:11:06,871 	 0 [main]  INFO (Main.java:40) - Logging initialized.
+com.viv.Main.main(Main.java:25) 	 2019-08-23 12:11:06,874 	 3 [main]  WARN (Main.java:25) - Sample debug message

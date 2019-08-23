@@ -1,11 +1,8 @@
 package com.viv;
 
-import java.io.BufferedReader;
-import java.io.DataInputStream;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.io.InputStreamReader;
+import java.sql.Driver;
 import java.util.Properties;
 
 import org.apache.log4j.BasicConfigurator;
@@ -23,6 +20,7 @@ public class Main {
 		initializeLogger();
 		
         logger.warn("Sample debug message");
+        
         //logger.info("Sample info message");
         //logger.warn("Sample warn message");
 	
