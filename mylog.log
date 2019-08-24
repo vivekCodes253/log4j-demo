@@ -32,3 +32,13 @@ com.viv.Main 2019-08-23 17:37:23,296 3 [main]  WARN (Basic.java:8) - Adding 2 an
 [WARN ] 2019-08-23 18:00:36,190 com.viv.Main - Adding 2 and 3
 [INFO ] 2019-08-23 18:01:45,020 com.viv.Main - Logging initialized.
 [WARN ] 2019-08-23 18:01:45,347 com.viv.Main - Adding 2 and 3
+[INFO ] 2019-08-24 13:28:35,579 com.viv.log.LoggerMain - Logging initialized.
+[INFO ] 2019-08-24 13:29:18,143 com.viv.log.LoggerMain - Logging initialized.
+[WARN ] 2019-08-24 13:29:18,592 com.viv.log.LoggerMain - Adding 2 and 3
+[INFO ] 2019-08-24 13:48:43,447 com.viv.log.LoggerMain - Logging initialized.
+[INFO ] 2019-08-24 13:49:12,216 com.viv.log.LoggerMain - Logging initialized.
+[WARN ] 2019-08-24 13:49:13,627 com.viv.log.LoggerMain - Adding 2 and 3
+[INFO ] 2019-08-24 13:49:43,285 com.viv.log.LoggerMain - Logging initialized.
+[WARN ] 2019-08-24 13:49:44,393 com.viv.log.LoggerMain - Adding 2 and 3
+[INFO ] 2019-08-24 13:50:15,245 com.viv.log.LoggerMain - Logging initialized.
+[WARN ] 2019-08-24 13:50:16,465 com.viv.log.LoggerMain - Adding 2 and 3
