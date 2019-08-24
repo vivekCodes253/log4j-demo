@@ -23,7 +23,7 @@ public class JDBCops{
 	//private Contact contact;
 	
 	private void init() throws Exception {
-		Driver d = new com.mysql.cj.jdbc.Driver();
+		Driver d = new com.mysql.jdbc.Driver();
 		DriverManager.registerDriver(d);
 		cn = DriverManager.getConnection(CONNECTION_URL,USER_ID,PASSWORD);
 		st = cn.createStatement();

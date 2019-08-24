@@ -9,18 +9,19 @@ import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
+import com.viv.calculator.Basic;
+
 public class Main {
 
-	private static Logger logger = Logger.getLogger(Main.class);
+	public static Logger logger = Logger.getLogger(Main.class);
 	static final String LOG_PROPERTIES_FILE = "log4j.properties";
 	
 	public static void main(String[] args) {
 
 		BasicConfigurator.configure();
 		initializeLogger();
-		
-        logger.warn("Sample debug message");
-        
+		Basic basicCalculator = new Basic();
+        System.out.println(basicCalculator.add(2, 3));
         //logger.info("Sample info message");
         //logger.warn("Sample warn message");
 	

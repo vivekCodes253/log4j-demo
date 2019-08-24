@@ -2,72 +2,8 @@
 <classpath>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-aop-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-aop-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-aop-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-aspects-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-aspects-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-aspects-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-beans-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-beans-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-beans-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-context-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-context-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-context-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-context-indexer-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-context-indexer-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-context-indexer-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-context-support-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-context-support-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-context-support-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-core-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-core-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-core-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-expression-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-expression-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-expression-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-instrument-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-instrument-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-instrument-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-jcl-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-jcl-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-jcl-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-jdbc-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-jdbc-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-jdbc-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-jms-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-jms-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-jms-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-messaging-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-messaging-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-messaging-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-orm-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-orm-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-orm-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-oxm-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-oxm-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-oxm-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-test-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-test-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-test-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-tx-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-tx-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-tx-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-web-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-web-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-web-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-webflux-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-webflux-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-webflux-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-webmvc-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-webmvc-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-webmvc-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-websocket-5.1.9.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-websocket-5.1.9.RELEASE-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/spring-websocket-5.1.9.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/rvive/Downloads/Course/SD1 - Spring &amp; Hibernate for Beginners (includes Spring Boot)/Libraries/Log4j/log4j-1.2.17.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Course/Java/Libraries/Log4j/log4j-1.2.17.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Course/Java/Libraries/SQLConnector/mysql-connector-java-5.1.48-bin.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Course/Java/Libraries/SQLConnector/mysql-connector-java-5.1.48.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mysql-connector-java-5.1.48-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mysql-connector-java-5.1.48.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
