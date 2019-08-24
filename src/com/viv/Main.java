@@ -44,6 +44,9 @@ public class Main {
     }
 	
 	
+	public void demomain() {
+		System.out.println("Hello");
+	}
 	
 	public static void setName() {
 		System.out.println("ok");
